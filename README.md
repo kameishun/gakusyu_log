@@ -51,4 +51,10 @@
 - 勉強計画の機能(目標勉強時間)
 - デモ機能(記録ボタンの機能、学習表の一時的な記録機能)
 
+## 画面遷移図
+
 https://www.figma.com/file/z9mHZYZq4XxtnaaEVjgf8F/Untitled?type=design&node-id=10%3A3&mode=design&t=2hRKX0wA3dI7XtOc-1
+
+## ER図
+
+![Alt text](73978CA5-FD65-43B5-8877-4CA592CED84B.png)
