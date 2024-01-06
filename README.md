@@ -57,4 +57,4 @@ https://www.figma.com/file/z9mHZYZq4XxtnaaEVjgf8F/Untitled?type=design&node-id=1
 
 ## ER図
 
-![Alt text](1DFFD9BE-36ED-4751-A087-1AD3BAD56BE3.png)
+![Alt text](B11C96C1-5410-49E2-BCFE-A1C3956DB171.png)
