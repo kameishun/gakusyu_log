@@ -1,0 +1,18 @@
+current directory: /Users/kameishun/my_app/gakusyu_app/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/kameishun/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/kameishun/my_app/gakusyu_app/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240209-3723-gxj37u sitelibdir\=./.gem.20240209-3723-gxj37u clean
+
+current directory: /Users/kameishun/my_app/gakusyu_app/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240209-3723-gxj37u sitelibdir\=./.gem.20240209-3723-gxj37u
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/kameishun/my_app/gakusyu_app/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240209-3723-gxj37u sitelibdir\=./.gem.20240209-3723-gxj37u install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240209-3723-gxj37u/racc
+
+current directory: /Users/kameishun/my_app/gakusyu_app/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240209-3723-gxj37u sitelibdir\=./.gem.20240209-3723-gxj37u clean
