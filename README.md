@@ -1,4 +1,4 @@
-# gakusyu_app
+# gakusyu_log
 
 # [学習ログ]
 
